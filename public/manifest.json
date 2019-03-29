@@ -1,0 +1,38 @@
+{
+  "short_name": "QRCoders",
+  "name": "QRCoders WebApp",
+  "description" : "QRCoders is a Student Attendance WebApp",
+  "icons": [
+    {
+      "src": "/images/icons/android-icon-72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/images/icons/android-icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/images/icons/android-icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/images/icons/android-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons/android-icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://qrcoders.herokuapp.com/",
+  "background_color": "#FF0077",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "theme_color": "#FF0077"
+}
