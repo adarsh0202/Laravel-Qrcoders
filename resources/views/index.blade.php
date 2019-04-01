@@ -108,7 +108,7 @@
                                 <span class="ti-settings gradient-fill ti-3x mr-3"></span>
                                 <div class="media-body">
                                     <h4 class="card-title">Customize</h4>
-                                    <p class="card-text">QRCoders can be customized according to each student's and teacher's need </p>
+                                    <p class="card-text">QRCoders can be customized hgksks according to each student's and teacher's need </p>
                                 </div>
                             </div>
                         </div>
